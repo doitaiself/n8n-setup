@@ -1,1 +1,1 @@
-# N8N Setup
+# Setup N8N Application
